@@ -1,0 +1,15 @@
+.header{
+    background-color: purple;
+    margin: 0 auto;
+    padding: 10px;
+}
+
+td{
+    padding: 5px;
+    text-align: center;
+}
+
+a {
+    color: white;
+    text-decoration: none;
+}
